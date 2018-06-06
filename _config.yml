@@ -3,44 +3,45 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kaijun's Blog
-subtitle: To Be A Lean Developer!
-author: Kaijun Chen
+title: Jam's Blog
+subtitle: Tomorrow is another day!
+author: Jam Wong
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaijun.rocks/hexo-theme-huxblog
-root: /hexo-theme-huxblog/
+url: http://wangzhy/hexo-huxblog/
+root: /hexo-huxblog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Kaijun的博客 | Kaijun's Blog
+SEOTitle: Jam's Blog
 header-img: img/home-bg.jpg
-email: Kaijun.cn@gmail.com
+email: jamwong994@gmail.com
 description: ""
 keyword: ""
 
 
 # SNS settings
 # RSS: false
-weibo_username:     Demonbane
-zhihu_username:     Demonbane
-github_username:    Kaijun
-twitter_username:   Demonbane_x
-facebook_username:  demonbane.cn
-linkedin_username:  kaijun-chen-42089354
+# weibo_username:     
+zhihu_username:     yonggege
+github_username:    wzyonggege
+# twitter_username:   
+# facebook_username:  
+# linkedin_username:  
+instagram_username:   jqkyyy
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 # Disqus settings
-disqus_username: hexo-theme-huxblog
+disqus_username: wangzhy.com
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -53,7 +54,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: wangzhy.com
 
 
 # Sidebar settings
@@ -70,9 +71,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Kaijun's Blog",
-        href: "http://blog.kaijun.rocks"
-    },{
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
@@ -147,5 +145,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Kaijun/hexo-theme-huxblog
+  repo: https://github.com/wzyonggege/hexo-huxblog
   branch: gh-pages
