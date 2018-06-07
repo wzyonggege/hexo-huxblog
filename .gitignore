@@ -1,6 +1,7 @@
 .DS_Store
 Thumbs.db
 db.json
+_config.yml
 *.log
 node_modules/
 public/
